@@ -34,7 +34,9 @@ The Federal government has made it a goal that a portion of certain federal inve
  
  
  
-
+[^1]:** My Footnote
+[^2]: All information on this markdown page was source from WH.gov
+[^3]: I would have included this footnote at the bottom except that everything after my python script was included in that cell and I could not figure out how to exit the "To Do" cell
   
 
 
