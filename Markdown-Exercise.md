@@ -2,9 +2,28 @@
 
 # Justice40 Initiative -A Whole-Of-Government Initiative
 
+![alt text](https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png)
+
 The Federal government has made it a goal that a portion of certain federal investments flow to disadvantaged communities that are marginalized, underserved and overburdened by pollution.
 
 [Click here for  more information](https://www.whitehouse.gov/environmentaljustice/justice40/)
+
+## To Do
+When you go to the website, you can copy a block of text and insert it to search for words. For example, I will search for the "climate"
+
+```python
+string = "[insert your block of text here]"
+
+
+
+from distutils.filelist import findall
+import re
+string = string.lower()
+
+if 'climate' in string:
+    print('yes!')
+else:
+    print('not in file')
 
 
 ## Types of Investment
@@ -16,6 +35,16 @@ The Federal government has made it a goal that a portion of certain federal inve
 - training and workforce development
 - remediation and reduction of legacy pollution
 - development of clean water and wastewater infrastructure
+
+This new paragraph will have some `variable` inline code when I find one applicable for this project.
+
+## Agencies and the number of programs
+  #### All agencies that have reported their engagement in Justice40 are required to release their covered programs and report data on the benefits directed to disadvantaged communities. below is a table of agencies and the number of programs as of 2/9/2024
+
+
+
+
+
 
 
  
